@@ -1,0 +1,15 @@
+../Core/Src/main.c:42:6:rcc_init	1
+../Core/Src/main.c:50:6:gpio_init	1
+../Core/Src/main.c:91:6:tim2_pwm_init	1
+../Core/Src/main.c:107:6:motor_set_speed	2
+../Core/Src/main.c:113:6:motor_forward	1
+../Core/Src/main.c:119:6:motor_reverse	1
+../Core/Src/main.c:125:6:motor_stop	1
+../Core/Src/main.c:131:6:usart2_init	1
+../Core/Src/main.c:139:6:usart2_send_char	2
+../Core/Src/main.c:145:6:usart2_send_string	2
+../Core/Src/main.c:154:9:usart2_data_ready	1
+../Core/Src/main.c:159:6:usart2_read_char	1
+../Core/Src/main.c:165:6:uart_receive_handler	5
+../Core/Src/main.c:192:6:parse_command	6
+../Core/Src/main.c:228:5:main	1
